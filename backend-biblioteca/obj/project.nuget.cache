@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S6+SKexn37o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\44486183827\\OneDrive - SESISENAISP - Escolas\\Workspice\\backend-biblioteca\\backend-biblioteca\\backend-biblioteca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\44486183827\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "C:\\Users\\44486183827\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512",
+    "C:\\Users\\44486183827\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
